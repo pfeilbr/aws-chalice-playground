@@ -38,6 +38,8 @@ chalice package packaged/
 # SAM template created at `helloworld/packaged/sam.json`
 # bundled python code + deps at `helloworld/packaged/deployment.zip`
 
+# tear down
+chalice delete
 
 ```
 
